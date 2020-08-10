@@ -1,0 +1,11 @@
+/kw_resources/dataset_for_darknet/images/IMG_3712.jpg
+/kw_resources/dataset_for_darknet/images/IMG_3706.jpg
+/kw_resources/dataset_for_darknet/images/000000000384.jpg
+/kw_resources/dataset_for_darknet/images/000000000390.jpg
+/kw_resources/dataset_for_darknet/images/000000000179.jpg
+/kw_resources/dataset_for_darknet/images/000000000145.jpg
+/kw_resources/dataset_for_darknet/images/000000000623.jpg
+/kw_resources/dataset_for_darknet/images/000000000637.jpg
+/kw_resources/dataset_for_darknet/images/000000000151.jpg
+/kw_resources/dataset_for_darknet/images/000000000186.jpg
+/kw_resources/dataset_for_darknet/images/000000000192.jpg
